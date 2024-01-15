@@ -1,2 +1,3 @@
 # Snakey
-Link : https://rakshit0111.github.io/game/
+
+ https://rakshit0111.github.io/game/
